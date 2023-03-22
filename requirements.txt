@@ -1,0 +1,4 @@
+openai~=0.26.5
+nltk~=3.8.1
+twitchio~=2.5.0
+azure-cognitiveservices-speech~=1.26.0

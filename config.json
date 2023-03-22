@@ -1,0 +1,9 @@
+{
+  "twitch-account-name": "OurTwitchName",
+  "bot-name": "THEBOTSNAMEINALLCAPS",
+  "voice-name": "en-US-AmberNeural",
+  "twitch-access-key": "TwitchAccessKey",
+  "openapi-key": "OpenAIAPIKey",
+  "microsoft-azure-api-key": "MicrosoftAzureKey",
+  "microsoft-azure-speech-region": "RegionHere"
+}
