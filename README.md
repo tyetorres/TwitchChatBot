@@ -81,7 +81,7 @@
 <!-- ABOUT THE PROJECT -->
 ## YouTube Video Tutorial 
 
-[![Product Name Screen Shot][product-screenshot]](https://www.youtube.com/watch?v=SRCw_DSXfyI)
+[![Product Name Screen Shot][product-screenshot]](https://www.youtube.com/watch?v=_muJ_0HdMgo)
 
 This is a project to set up your very own VTuber AI similar to "Neuro-Sama".
 
